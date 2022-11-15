@@ -1,0 +1,16 @@
+﻿  energymodel.cpp
+  instance.cpp
+C:\Users\admin\Downloads\instance.cpp(138,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\Downloads\instance.cpp(149,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Downloads\instance.cpp(164,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Downloads\instance.cpp(168,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\Downloads\instance.cpp(348,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\CumPDSTSP\CumPDSTSP\config.h(64,81): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Source1.cpp
+  Generating Code...
+  CumPDSTSP.vcxproj -> D:\CumPDSTSP\CumPDSTSP\x64\Debug\CumPDSTSP.exe
